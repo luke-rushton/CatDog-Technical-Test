@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luke\\Desktop\\catdog endpoint\\CatDog Application\\CatDog Application\\CatDog Application.csproj": {}
+    "C:\\Users\\Luke\\Desktop\\CatDog-Technical-Test\\CatDog-Technical-Test\\CatDog Application\\CatDog Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luke\\Desktop\\catdog endpoint\\CatDog Application\\CatDog Application\\CatDog Application.csproj": {
+    "C:\\Users\\Luke\\Desktop\\CatDog-Technical-Test\\CatDog-Technical-Test\\CatDog Application\\CatDog Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luke\\Desktop\\catdog endpoint\\CatDog Application\\CatDog Application\\CatDog Application.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\Desktop\\CatDog-Technical-Test\\CatDog-Technical-Test\\CatDog Application\\CatDog Application.csproj",
         "projectName": "CatDog Application",
-        "projectPath": "C:\\Users\\Luke\\Desktop\\catdog endpoint\\CatDog Application\\CatDog Application\\CatDog Application.csproj",
+        "projectPath": "C:\\Users\\Luke\\Desktop\\CatDog-Technical-Test\\CatDog-Technical-Test\\CatDog Application\\CatDog Application.csproj",
         "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luke\\Desktop\\catdog endpoint\\CatDog Application\\CatDog Application\\obj\\",
+        "outputPath": "C:\\Users\\Luke\\Desktop\\CatDog-Technical-Test\\CatDog-Technical-Test\\CatDog Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Luke\\AppData\\Roaming\\NuGet\\NuGet.Config",

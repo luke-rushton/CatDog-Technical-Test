@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KCaCwalgsKPEsJGcC2LpbJf7RuQPa3hkXG19sbpGOr+7g1llpKHNXL2+Ah2jNuYbPHqLeiZ7kc4Qa+tYtGyOxA==",
+  "dgSpecHash": "SgJs3aWW2xDZ4rWJmIJLs2q7xjMr9Rg10acJKa2/YkV+tpjMM9P/npX7WasYVfhATjgpofuUKidJOMKQihRe4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luke\\Desktop\\catdog endpoint\\CatDog Application\\CatDog Application\\CatDog Application.csproj",
+  "projectFilePath": "C:\\Users\\Luke\\Desktop\\CatDog-Technical-Test\\CatDog-Technical-Test\\CatDog Application\\CatDog Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luke\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
     "C:\\Users\\Luke\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
